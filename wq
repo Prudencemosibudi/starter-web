@@ -1,0 +1,62 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mdeleted file mode 100644[m
+[1mindex bf0824e..0000000[m
+[1m--- a/.gitignore[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-*.log[m
+\ No newline at end of file[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex d51543a..06bb023 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,14 +2,6 @@[m
+ [m
+ This repository is for showing how Git and GitHub work[m
+ [m
+[31m-[m
+ ## Purpose[m
+ [m
+[31m-Sample website with plenty of files for demos[m
+[31m-[m
+[31m-[m
+[31m-## How to contribute[m
+[31m-[m
+[31m-## Deployment[m
+[31m-[m
+[31m-## How To Contribute[m
+\ No newline at end of file[m
+[32m+[m[32mSample website with plenty of files for demos[m
+\ No newline at end of file[m
+[1mdiff --git a/hipster.txt b/hipster.txt[m
+[1mindex d521297..b3ac667 100644[m
+[1m--- a/hipster.txt[m
+[1m+++ b/hipster.txt[m
+[36m@@ -1,11 +1,3 @@[m
+ Fixie grailed ramps offal. Iceland DIY plaid jawn actually af, coloring book tumblr. Meggings tousled hot chicken, cold-pressed raw denim franzen Brooklyn lumbersexual affogato raclette cloud bread bushwick tilde bitters. Shoreditch chia cronut activated charcoal. Live-edge four dollar toast authentic squid retro dreamcatcher godard green juice semiotics distillery hammock chartreuse PBR&B.[m
+ [m
+ Whatever fixie portland bicycle rights activated charcoal big mood typewriter godard salvia DSA, selfies health goth polaroid. Yes plz selvage hell of adaptogen waistcoat tbh cupping chartreuse grailed lo-fi pop-up. Mumblecore asymmetrical lomo cupping tattooed. Leggings pabst listicle humblebrag hell of williamsburg banjo offal godard activated charcoal photo booth asymmetrical organic truffaut. Vexillologist bodega boys leggings everyday carry. Neutral milk hotel forage vibecession, aesthetic flexitarian affogato XOXO ugh heirloom try-hard vaporware brunch marxism bespoke.[m
+[31m-[m
+[31m-Right there[m
+[31m-[m
+[31m-Man bun stumptown knausgaard gorpcore cupping. Semiotics ugh pop-up, irony literally stumptown pug lumbersexual narwhal umami YOLO skateboard everyday carry jianbing Brooklyn. Health goth banh mi vape iceland kinfolk, kogi semiotics. Mukbang raclette waistcoat cornhole +1 gorpcore tumeric pug DSA before they sold out cupping cold-pressed raw denim mixtape.[m
+[31m-[m
+[31m-Green juice +1 franzen pug. Kitsch [m
+[31m-More dummy text keh sisi[m
+[31m-[m
+[1mdiff --git a/hipster.txt.txt b/hipster.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e00d2a0[m
+[1m--- /dev/null[m
+[1m+++ b/hipster.txt.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mI'm baby salvia shoreditch occupy umami yes plz shaman iceland seitan ethical keffiyeh 90's 3 wolf moon. Pug tote bag farm-to-table cornhole man bun marxism. Mukbang bushwick photo booth praxis ennui. Mustache street art vinyl quinoa celiac, fanny pack man bun lyft migas affogato pop-up art party taxidermy. Hot chicken unicorn flannel whatever. Cliche PBR&B neutra marfa, jean shorts forage taiyaki VHS occupy hexagon tumblr four loko lo-fi squid lomo. Next level grailed craft beer, farm-to-table ramps kinfolk tilde live-edge gochujang.[m
+\ No newline at end of file[m
+[1mdiff --git a/newfile.txt b/newfile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ec2af71[m
+[1m--- /dev/null[m
+[1m+++ b/newfile.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mjust a new ls-file for test[m
+\ No newline at end of file[m
