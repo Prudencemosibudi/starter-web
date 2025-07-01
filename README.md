@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 
 ## How to contribute
+This is an example to show different parts of the Git repo.
 
 ## Deployment
 
